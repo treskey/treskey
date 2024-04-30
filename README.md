@@ -18,9 +18,9 @@ I am a full-stack software engineer with a background in design and illustration
 
 In other words: I like solving problems, whether visual or code-based 😉
 
-Most recently, I designed and developed **[Campfire](https://campfire-previews.github.io/)**, an open-source tool that enhances CI/CD pipelines by providing self-hosted, dedicated preview environments for containerized applications, complete with integrated feedback capabilities, allowing team members to comment directly on deploy previews. 
+Most recently, I designed and developed **[Campfire](https://campfire-previews.github.io/)**, an open-source, self-hosted CI/CD tool that lets developers automatically provision deploy previews with a built-in commenting and recording interface, so teams can get and share feedback faster and with less context-switching.
 
-[Learn more about Campfire →](https://campfire-previews.github.io/).
+[You can learn more about it here →](https://campfire-previews.github.io/).
 
 ### Programming Stack:
 
