@@ -20,7 +20,8 @@ In other words: I like solving problems, whether visual or code-based 😉
 
 Most recently, I designed and developed **[Campfire](https://campfire-previews.github.io/)**, an open-source, self-hosted CI/CD tool that lets developers automatically provision deploy previews with built-in commenting and recording features, so teams can get and share feedback faster and with less context-switching.
 
-[You can learn more about it here →](https://campfire-previews.github.io/).
+🤓 [You can learn more about it here →](https://campfire-previews.github.io/).
+
 
 ### Programming Stack:
 
